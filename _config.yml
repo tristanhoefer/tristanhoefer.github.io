@@ -21,8 +21,8 @@
 title: "Tristan's Blog"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello my name Tristan, imn a 20 years old computer science student at RWTH Aachen.
-  
+  Hello my name Tristan, im a 20 years old computer science student at RWTH Aachen.
+  One my main field of interest is ML and AI.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: testotris
